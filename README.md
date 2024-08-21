@@ -228,8 +228,8 @@ Moreover, datasets such as Times Impact inspired us to ask more related question
 ______________________________
 ### Team Members:
 - Raghad Almalki
-- Salman
-- Mousa
-- Mohammed
+- Salman Gassem
+- Mousa 
+- Mohammed Al Amri
 - Hatoon Aloqaily
 
